@@ -1,0 +1,17 @@
+:root {
+  --maincolor: #ebfbee;
+  --color: #333;
+  --btn-color: #1d3557;
+
+  --font1: 1rem;
+  --font2: 1.2rem;
+  --h2-font: 1.4rem;
+  --font4: 1.6rem;
+  --font5: 1.8rem;
+  --p-font: 2rem;
+  --font7: 2.4rem;
+  --font7: 3rem;
+  --heading-tertiary: 3.6rem;
+  --heading-secondary: 4.4rem;
+  --heading-primary: 5.2rem;
+}
